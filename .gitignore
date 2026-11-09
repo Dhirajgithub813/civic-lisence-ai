@@ -1,0 +1,33 @@
+# Environment variables and API keys (CRITICAL)
+.env
+.env.*
+
+# Python virtual environment
+venv/
+myenv/
+.venv/
+ENV/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary local files and sample images
+*.jpg
+*.png
+*.jpeg
+New Text Document.txt
+.env
+venv/
+__pycache__/
